@@ -1,2 +1,2 @@
 print("havelsan ödevi sanal makinede git kullanma ")
-print("branch denemesi222")
+print("branch denemesi2")
