@@ -37,7 +37,8 @@
 ![build](https://user-images.githubusercontent.com/85956625/209134327-e8b612e3-83b6-4e65-9130-066814ee680e.PNG)
 
 
-![dasda](https://user-images.githubusercontent.com/85956625/209134462-73f190f5-3538-41c1-8f41-69e260724cf7.PNG)
+![çalıs](https://user-images.githubusercontent.com/85956625/209136904-6046add9-3bcb-4b48-82c5-e314b0302d01.PNG)
+
 
 
 ####   sudo docker run -p 80:8080 docker
