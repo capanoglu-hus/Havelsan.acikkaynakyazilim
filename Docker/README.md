@@ -34,7 +34,10 @@
 ####  sudo docker build -t docker .
 
 
-![build](https://user-images.githubusercontent.com/85956625/209134327-e8b612e3-83b6-4e65-9130-066814ee680e.PNG)
+![asdsddsda](https://user-images.githubusercontent.com/85956625/209703814-7fdca99f-e28e-4781-bc74-95e794f939b2.png)
+
+
+![asdas](https://user-images.githubusercontent.com/85956625/209703837-f522c0a0-d03f-401b-b141-6e5c4754c3bc.png)
 
 
 ![çalıs](https://user-images.githubusercontent.com/85956625/209136904-6046add9-3bcb-4b48-82c5-e314b0302d01.PNG)
